@@ -3,11 +3,11 @@ body{
 }
 h1{
     font-size: 60px;
+    padding-top: 0px;
 }
 h2{
     color: orangered;
     font-size: 50px;
-    padding-top: 30px;
 }
 section{
     display: flex;
@@ -25,4 +25,14 @@ section{
     padding: 10px 40px;
     border-radius: 5px;
     font-weight: bold;
+}
+.my-mission{
+    text-align: center;
+}
+.mission-vission-goals{
+    display: flex;
+    padding: 5px;
+}
+.images{
+    width: 50%;
 }
